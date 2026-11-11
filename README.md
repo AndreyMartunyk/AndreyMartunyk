@@ -25,9 +25,4 @@ I am a result-oriented developer with a passion for creating efficient and scala
 🏐 One fun fact about me: I love playing volleyball! Whether it's a friendly match with friends or a more competitive game, you can often find me on the volleyball court, enjoying the sport and staying active. It's not just a game for me; it's a great way to unwind and stay fit while having a good time with others. 🚀
 
 
-## 📫 Get in Touch
-
-- [LinkedIn](www.linkedin.com/in/andrii-martyniuk-5a5573185)
-
-
 Happy coding! 🚀
